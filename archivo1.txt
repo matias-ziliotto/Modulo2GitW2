@@ -3,3 +3,4 @@ Estamos trabajando sobre el mismo archivo para despues resolver conflictos.
 Esto es para un segundo conflicto.
 Esta es una nueva linea para seguir probando
 Esta es una modificación para forzar el merge con Mati.
+Estamos trabajando sobre el mismo archivo para despues resolver conflictos
